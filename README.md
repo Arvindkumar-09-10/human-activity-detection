@@ -1,3 +1,5 @@
+**How to run:**
+
 open human activity recognition --->cmd
 
 
